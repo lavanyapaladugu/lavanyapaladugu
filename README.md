@@ -28,19 +28,22 @@
 - React, Tailwind CSS, MockAPI  
 - Authentication + CRUD  
 - Charts using Recharts
-- live (https://capable-kataifi-8a946b.netlify.app/)   
+- live (https://capable-kataifi-8a946b.netlify.app/)
+- code (https://github.com/lavanyapaladugu/User-Management-Dashboard-with-Analytics)
 
 ---
 ### 🔹 Full-Stack Todo Dashboard
 - React, Node.js, Express  
 - CRUD operations with REST APIs  
-- Filtering + Search 
+- Filtering + Search
+- code (https://github.com/lavanyapaladugu/todo-dashboard)
 
 ---
 
 ### 🔹 React Authentication App
 - Login & Signup system  
 - Form validation + Protected routes
+- code (https://github.com/lavanyapaladugu/react-auth-app)
 ---
 
 ## 🚀 Tech Stack
